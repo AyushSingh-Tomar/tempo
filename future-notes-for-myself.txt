@@ -1,0 +1,7 @@
+1) The archive system is currently working locally in browser.
+2) How money relation ships are determined are to be finetuned
+
+
+3) way to run app has changed -> 
+
+powershell -ExecutionPolicy Bypass -File .\setup.ps1
